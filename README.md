@@ -1,5 +1,5 @@
 # Tournament Results
-## Register players and getting random players tournament results by Swiss Pairing System
+   * Register players and getting random players tournament results by Swiss Pairing System
 
 ## Instructions on how to run the project
 1. Before run this project, you must install "Vagrant" and run "fullstack-nanodegree-vm"
